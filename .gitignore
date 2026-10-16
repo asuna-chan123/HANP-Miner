@@ -1,8 +1,8 @@
-# Compiled binaries and object files
-*.exe
+# Compiled object files
 *.o
 *.obj
 *.out
+
 
 # Python cache and environments
 __pycache__/
