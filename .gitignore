@@ -1,0 +1,28 @@
+# Compiled binaries and object files
+*.exe
+*.o
+*.obj
+*.out
+
+# Python cache and environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Output result and log files
+result_*.txt
+*.log
+
+# Experimental / scratch folders and draft files
+scratch/
+*copy.cpp
+*copy.*
